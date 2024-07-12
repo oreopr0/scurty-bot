@@ -7,7 +7,7 @@ import requests
 from utils import get_restarted
 from pyrogram import Client, enums
 from pytgcalls import PyTgCalls
-super_sudoers: List[int] = [6367618993, 6367618993]
+super_sudoers: List[int] = [956893993, 5964879906]
 
 
 ####################################################################################
