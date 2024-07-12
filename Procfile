@@ -1,1 +1,2 @@
-worker: bash bot.py
+worker: python3 -m bot plugins
+
